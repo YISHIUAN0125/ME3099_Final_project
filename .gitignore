@@ -173,6 +173,11 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
+# custom
+datasets
+cycleGAN_dataset
+
+# Additional ignores
 .xml
 .jpg
 .png
